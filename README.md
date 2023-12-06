@@ -1,5 +1,5 @@
-# vue_test
-
+# vue_animation
+![Alt text](vuegif.gif?raw=true "Optional Title")
 ## Project setup
 ```
 npm install
