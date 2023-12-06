@@ -5,7 +5,7 @@
 Here's a list of features included in this project
 
 - Mainly fully interactive using Vue.js
-- A massive collection of official plugins by using vue-cli
+- A massive collection of official plugins provided by vue-cli
 - Dynamically render CSS classes with vue-cli
 - Awesome modern minimalist UI
 - User can revolve the cube by clicking the providing button
