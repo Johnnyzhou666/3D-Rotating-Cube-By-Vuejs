@@ -1,5 +1,5 @@
 # vue_animation
-![Alt text](vuegif.gif?raw=true "Optional Title")
+![Alt text](vuegif.gif?raw=true "transformers")
 ## Features:
 
 Here's a list of features included in this project
